@@ -1,0 +1,316 @@
+@media screen and (max-width: 1366px){
+	.barright {
+
+	    margin-top: 26px;
+	}
+}
+
+
+@media screen and (max-width: 1360px){
+	.logospan{
+		width: 60%;
+		top: 61.674189%;
+	}
+	.honor li{
+		 margin-left: 5%;		 
+	}
+	#bar li{
+		margin-left: 3.5%;
+	}
+	.weipo .ml13{
+		margin-right:0px;
+	}
+
+}
+@media screen and (max-width: 1250px){
+	.honor {
+		width: 92%; 
+	}
+	#bar li{
+		margin-left: 3%;
+	}
+}
+@media screen and (max-width: 1090px){
+	.span2 {
+    margin-top: 4.538799414348463%;
+    width: 43.143485%;
+    }
+    .spanmian{
+    	width: 15.445095%;
+    }
+	.span1 {
+	    margin-top: 4.538799414348463%;
+	    width:41.143485%;
+	}
+	#bar li{
+		margin-left: 2%;
+	}
+	.m8r2{
+		 font-size: 22px;
+	}
+	.honor{
+		 width: 94%;
+	}
+	.honor li{
+		 margin-left: 4%;		 
+	}
+
+}
+/*960 屏幕*/
+@media screen and (max-width: 960px){
+	.logospan {
+    width: 60%;
+    top: 70%;
+	}
+	#bar ul{
+		display: none;
+	}
+	.nav{
+		display: block;
+	}
+	.ml3_media{
+		margin-right: 5px;
+	}
+	.ml3{
+	margin-left: 0px;
+	}
+	.main4mian li{
+	width:49.2%;
+	}
+	.main4mian ul{
+		width: 98%;
+	margin: 0 auto;
+	}
+	#mian3 li{
+		width: 30.5%;
+		
+	}
+	.mb29{
+		margin-bottom: 0;
+	}
+	.pm113 {
+	    padding-bottom: 50px;
+	}
+	.m2main {
+	    width: 95.796486%;
+
+	}
+}
+@media screen and (max-width: 955px){
+	.honor{
+		 width: 72%;
+
+	}
+	.honor li{
+		padding-bottom: 15px;
+	}
+	.mp95{
+		padding-bottom: 20px;
+	}
+}
+@media screen and (max-width: 880px){
+	.main4mian ul {
+	    width: 98%;
+	     margin-left: 2%; 
+	}
+	.main4mian li{
+		width: 49%;
+	}
+	
+	.m8r1 {
+	     float: none; 
+	    width: 84.843137%;
+	    padding-bottom: 19px;
+	}
+	.m8r2 {
+	    font-size: 20px;
+	}
+	.weipo {
+	     float: none; 
+	}
+	
+	.m8_right {
+		
+	     float: none; 
+	}
+	.span1 {
+	    margin-top: 4.538799414348463%;
+	    width: 37.143485%;
+	}
+	.spanmian {
+	    width:24.445095%;
+	}
+	.span2 {
+	    margin-top: 4.538799414348463%;
+	    width:  37.143485%;
+	}
+	.main8 ul {
+	
+	    margin-left: 10.95756%;
+	}
+}
+@media screen and (max-width: 800px){
+	
+	.logo {
+	    top: 24.568406%;
+	}
+
+	.logospan {
+	
+	    left: 31.537189%;
+	  
+	}
+	.honor {
+    width: 80%;
+	}	
+	.weipo{
+		width: 100%;
+	}
+}
+@media screen and (max-width: 640px){
+	.m2main li {
+	    width: 49.183908%;	
+	    margin-left:0%; 
+	    margin-right: 4px; 
+ 
+	}
+	#mian3 li {
+	    width: 47.5%;
+	    height: 274px;
+	    margin-left: 0%; 
+	    margin-right: 1%;
+	}
+	.spanmian {
+
+	    margin-top: 1.213909%;
+	}
+	.pt58{
+		padding-bottom: 28px;
+	}
+	.main4{
+		padding-bottom: 20px;
+	}
+	.main8 ul{
+		float: none;
+		margin-left:0%;
+	}
+	.m8_right{
+		width: 40%;
+	}
+	.main8 li{
+		float: left;
+		margin-right: 1%;
+	}
+	.m8r1 img{
+		width: 101px;
+	}
+	.m8r1 p,.time{
+		float: none;
+	}
+	.m8r2{
+		float: none;
+	}
+	.logospan {
+	    width: 62%;
+	    top: 70%;
+    left: 26.537189%;
+       font-size: 17px;
+	}
+	.logo {
+	    width: 192px;
+	    position: absolute;
+	    left: 37.191801%;
+	    top: 12.568406%;
+	}
+.m8_right{
+	margin-top: 10px;
+}
+}
+@media screen and (max-width: 550px){
+	.main4mian ul {
+    width: 98%;
+    margin-left: 1%;
+}
+}
+@media screen and (max-width: 530px){
+	.logospan {
+
+	    top: 73%;
+	
+	    font-size: 14px;
+	}
+	.m2main {
+	     width: 97.796486%; 
+	}
+	.m2main ul{
+		margin-left: 5px;
+	}
+	.m2main li {
+	    width: 48.183908%;
+	    margin-left: 0%;
+	    margin-right: 5px;
+	}
+	.logospan{
+		display: none;
+	}	
+	.logo {
+	
+	    left: 33.191801%;
+	
+	}
+	.ml3_media {
+	    margin-right: 3px;
+	}
+	.span1 {
+	    margin-top: 4.538799414348463%;
+	    width: 30.143485%;
+	}
+	.spanmian {
+	    width:35.445095%;
+	}
+	.span2 {
+	    margin-top: 4.538799414348463%;
+	    width:  30.143485%;
+	}	
+}
+@media screen and (max-width: 414px){
+	.honor li{
+		width: 12%;
+		height: 34px;
+	}
+	.honor li img{
+		height: 100%;
+	}
+	.pm113 {
+    	padding-bottom: 30px;
+	}
+}
+@media screen and (max-width: 390px){
+	.m2main li {
+    width: 98.183908%;
+    margin-left: 0%;
+    margin-right: 5px;
+	}
+	#mian2{
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+	.logo {
+    width: 116px;
+    position: absolute;
+ 	left: 38.191801%;%;
+    top: 20.568406%;
+	}
+	#mian3 li{
+		width: 100%;
+	}
+	#mian3 .h310{
+		height: 310px;
+	}
+	.main4mian  li{
+		width: 99%;
+	}
+}
+.fixeds{
+	left: 9.5%;
+}

@@ -1,0 +1,44 @@
+@media screen and (max-width: 960px){
+	.m3left p {
+	    font-size: 14px;
+	    line-height: 24px;
+
+	}
+}
+@media screen and (max-width: 840px){
+	
+	.m3left {
+	    width: 96%;	
+	}
+	.m3right {
+    width: 95.840708%;
+    float: right;
+	}
+	.m3left h3 {
+		margin-top: 10px;
+	    margin-bottom: 10px;
+	}
+	.m3left p {
+	text-indent: 30px;
+	    margin-bottom: 13px;
+	}
+
+}
+@media screen and (max-width: 840px){
+	.main3{
+		width: 90%;
+	}
+}
+@media screen and (max-width: 414px){
+	.main2 {
+	    padding-bottom: 31px;
+	}
+	.m3left{
+		margin-left: 11px;
+	}
+}
+@media screen and (max-width: 320px){
+	.main3 {
+    	width: 95%;
+	}
+}

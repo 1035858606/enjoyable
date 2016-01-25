@@ -1,0 +1,177 @@
+img{
+	width: 100%;
+}
+a{
+	display: block;
+}
+/*nav*/
+#mian{
+	width: 82.79648609077599%;
+	margin: 0 auto;
+}
+#bar{
+	width: 100%;
+
+	font-size: 14px;
+}
+.nav{
+		display: none;
+}
+.navimg{
+	width: 40px;
+	height: 40px;
+	float: left;
+	margin-top: 20px;
+
+}
+#bar ul{
+
+
+}
+#bar li{
+	float: left;
+	margin-left: 3.978779840848806%;
+	line-height: 90px;
+
+}
+#bar li a{
+	color: black;
+}
+#bar .bar1{
+	margin-left:0px;
+}
+.bar2{
+	width: 12px;
+	float: left;	
+	margin-top: 40px;
+	position: relative;
+}
+.barright{
+	float: right;	
+	width: 82px;
+	margin-top: 15px;
+}
+#bar .ol li{
+	width: 70px;
+	text-align: center;	
+	line-height: 40px;
+	background-color: #E5E6EA;
+}
+#bar .ol li a{
+	display: block;
+}
+#bar .ol li a:hover{
+	color: red;
+}
+/*nav hover*/
+#bar li a:hover{
+	color:red
+}
+.bar_li2{
+	position: relative;
+}
+.two_ul{
+	width: 75px;
+	border: 1px solid #E5E6EA;
+	position: absolute;
+	background-color: white;
+    left: -29px;
+    top: 28px;
+    display: none;	
+
+}
+#bar .two_ul li{
+	display: block;
+	float: none;
+	line-height: 30px;
+	text-align: center;
+
+}
+.triangle_border_up{
+    width:0;
+    height:0;
+    border: 1px solid #ccc;
+    border-width:0 10px 10px;
+    border-style:solid;
+    border-color: transparent transparent white;/*透明 透明  灰*/
+   position: absolute;
+	top: -10px;
+	left:23px;
+}
+.bar_li2 a:hover ul{
+	display: block;
+}
+.ol{
+	position:relative;
+	z-index: 999;
+	display: none;
+}
+
+/*foot*/
+.main8{
+	width: 82.72327964860908%;
+	margin: 0 auto;
+	padding-top: 30px;
+	padding-bottom: 44px;
+	border-bottom: 1px solid #ccc;
+}
+.main8 h2{
+	font-size: 14px;
+	line-height: 45px;
+}
+.main8 ul {
+	float: left;
+	margin-left: 7.957559681697613%;
+}
+.main8 li{
+	line-height: 24px;
+	font-size: 12px;
+}
+.main8 .ml0{
+	margin-left: 0;
+}
+.m8_right{
+	float: right;
+	width: 18.03713527851459%;
+}
+.m8r1{
+	float: right;
+	width: 57.84313725490196%;
+	padding-bottom: 19px;
+
+}
+.m8r2{
+font-size: 26px;
+float: right;
+margin-bottom: 8px;
+}
+.time{
+	font-size: 12px;
+	float: right;
+	color:#bebebe;
+	margin-bottom: 22px;
+}
+.weipo{
+	width: 57.84313725490196%;
+	float: right;
+}
+.weipo .ml13{
+	margin-right: 10px;
+}
+.weipo img{
+	width: 44.91525423728814%;
+	float: left;
+}
+/*mmaudio*/
+.mian9{
+	text-align: center;	
+	line-height: 79px;
+}
+
+.fixeds{
+		position:fixed;
+		top:0;
+		background-color: rgba(255,255,255,0.8) ;
+		z-index:999;
+		left: 10%;
+	}

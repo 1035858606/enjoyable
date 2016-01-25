@@ -1,0 +1,35 @@
+@media screen and (max-width: 960px){
+	.m4_ul li{
+		float: none;
+		width: 100%;
+	}
+	.m4_ul p{
+		
+	}
+	.main5 .li2{
+		width: 100%;
+	}
+	.main5 .li3{
+		width: 100%;
+	}
+	.main6 span{
+			padding-top: 10px;
+	}
+	.main5,.main6{
+		padding-bottom: 15px;
+	}
+}
+@media screen and (max-width: 640px){
+	
+	.main3, .main4, .main5, .main6 {
+   		 width: 98%;
+	}
+	.m3_title{
+		margin-left: 2%;
+	}
+}
+@media screen and (max-width: 440px){
+	.m3_title{
+		margin-left: 4%;
+	}
+}
